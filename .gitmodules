@@ -1,0 +1,3 @@
+[submodule "__fixtures__"]
+	path = __fixtures__
+	url = git@github.com:djmunro/submodule-demo-fixtures.git
